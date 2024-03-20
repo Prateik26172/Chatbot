@@ -1,0 +1,72 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hey there! Can you provide your detail ?"
+    },
+    {
+      "question": "What kind of details?",
+      "answer": "Provide me your name please."
+    },
+    {
+      "question": "My name is pratik Dhakal",
+      "answer": "Provide me your phone number."
+    },
+    {
+      "question": "9860022398",
+      "answer": "Now provide me your email addrress."
+    },
+    {
+      "question": "pratikdhakal169@gmail.com",
+      "answer": "What kind of information do you want from me?"
+    },
+    {
+      "question": "93049520",
+      "answer": "Provide me your email address"
+    },
+    {
+      "question": "I need to check the information from the document that i will provide to you",
+      "answer": "provide me the document link here."
+    },
+    {
+      "question": "D:\\CV\\pratik_dhakal_cv.pdf",
+      "answer": "What do you want me to tell you from here?"
+    },
+    {
+      "question": "I would like to know what some details this person",
+      "answer": ""
+    },
+    {
+      "question": "Pratik Dhakal is a proactive and ambitious individual with a Bachelor's degree in Computer Science and Information Technology expected in 2024 from Tribhuvan University. He has hands-on experience as a Data Analyst intern at Meriskill, where he demonstrated proficiency in Python, SQL, data visualization, ETL processes, and machine learning. Pratik has developed projects such as a Sales Dashboard using Power BI and a Diabetes Prediction System using Django and logistic regression. He also worked on a healthcare solution called Medcare, implementing supervised learning algorithms for disease prediction and drug recommendation. With a keen interest in data analysis and machine learning, Pratik is eager to apply his skills and contribute positively to challenging projects.",
+      "answer": "& C:/Users/ASUS/AppData/Local/Programs/Python/Python312/python.exe c:/Users/ASUS/Desktop/chatbot/chatbot.py"
+    },
+    {
+      "question": "I want some details from the documents",
+      "answer": "Can your provide me the path of the document"
+    },
+    {
+      "question": "I want you to summarize the detail about this pdf",
+      "answer": "Pratik Dhakal is a proactive and ambitious individual with a Bachelor's degree in Computer Science and Information Technology expected in 2024 from Tribhuvan University. He has hands-on experience as a Data Analyst intern at Meriskill, where he demonstrated proficiency in Python, SQL, data visualization, ETL processes, and machine learning. Pratik has developed projects such as a Sales Dashboard using Power BI and a Diabetes Prediction System using Django and logistic regression. He also worked on a healthcare solution called Medcare, implementing supervised learning algorithms for disease prediction and drug recommendation. With a keen interest in data analysis and machine learning, Pratik is eager to apply his skills and contribute positively to challenging projects."
+    },
+    {
+      "question": "Laxman Dhakal",
+      "answer": "Provide me your phone number"
+    },
+    {
+      "question": "9792357925",
+      "answer": "Provide me your email address"
+    },
+    {
+      "question": "I would like you to elaborate about the document",
+      "answer": "provide me the path of the document from your drive"
+    },
+    {
+      "question": "I already provide you the path",
+      "answer": "& C:/Users/ASUS/AppData/Local/Programs/Python/Python312/python.exe c:/Users/ASUS/Desktop/chatbot/chatbot.py"
+    },
+    {
+      "question": "summarize it",
+      "answer": "Pratik Dhakal is a proactive and ambitious individual with a Bachelor's degree in Computer Science and Information Technology expected in 2024 from Tribhuvan University. He has hands-on experience as a Data Analyst intern at Meriskill, where he demonstrated proficiency in Python, SQL, data visualization, ETL processes, and machine learning. Pratik has developed projects such as a Sales Dashboard using Power BI and a Diabetes Prediction System using Django and logistic regression. He also worked on a healthcare solution called Medcare, implementing supervised learning algorithms for disease prediction and drug recommendation. With a keen interest in data analysis and machine learning, Pratik is eager to apply his skills and contribute positively to challenging projects"
+    }
+  ]
+}
